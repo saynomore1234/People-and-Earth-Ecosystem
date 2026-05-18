@@ -223,7 +223,7 @@ app.innerHTML = `
       </div>
       <figure class="story-figure">
         <img
-          src="https://images.unsplash.com/photo-1618477247222-acbdb0e159b3?auto=format&fit=crop&w=1400&q=80"
+          src="https://images.unsplash.com/photo-1591302418462-eb55463b49d6?auto=format&fit=crop&w=1400&q=80"
           alt="Workers and heavy equipment in a mining site"
           loading="lazy"
         />
@@ -322,8 +322,8 @@ app.innerHTML = `
           <figcaption>
             Coastal and upland ecosystems in the Philippines are closely connected, so impacts from one area can spread to another.
           </figcaption>
-        </figure>
-        <div class="status-card">
+              "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=1400&q=80",
+            alt: "Polluted river water with mining runoff"
           <p><strong>By the numbers:</strong></p>
           <p>Leading global nickel producer</p>
           <p>Many approved mining permits and applications</p>

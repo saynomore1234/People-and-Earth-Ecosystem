@@ -73,15 +73,15 @@ const effects = [
     title: "Water Pollution",
     body: "Mining waste and chemical runoff can contaminate rivers and coastlines. This threatens drinking water, irrigation, and aquatic ecosystems.",
     image:
-      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1400&q=80",
-    alt: "Muddy river water flowing through disturbed land"
+      "https://earth.org/wp-content/uploads/2020/08/water-pollution-1.jpg",
+    alt: "Heavily polluted river water showing industrial contamination"
   },
   {
     title: "Land degradation",
     body: "Open-pit and slope disturbance increase soil erosion and landslide risk. Farmland becomes harder to recover after extraction.",
     image:
-      "https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?auto=format&fit=crop&w=1400&q=80",
-    alt: "Eroded rocky hillside with loose soil"
+      "https://2021-2025.state.gov/wp-content/uploads/2022/05/shutterstock_1784667134.jpeg",
+    alt: "Severely degraded land and eroded terrain from mining activity"
   },
   {
     title: "Marine and aquatic damage",
@@ -223,8 +223,8 @@ app.innerHTML = `
       </div>
       <figure class="story-figure">
         <img
-          src="https://images.unsplash.com/photo-1591302418462-eb55463b49d6?auto=format&fit=crop&w=1400&q=80"
-          alt="Workers and heavy equipment in a mining site"
+          src="https://images.nationalgeographic.org/image/upload/v1638892272/EducationHub/photos/open-pit-copper-mine.jpg"
+          alt="Aerial view of an open-pit copper mine"
           loading="lazy"
         />
         <figcaption>
@@ -322,8 +322,8 @@ app.innerHTML = `
           <figcaption>
             Coastal and upland ecosystems in the Philippines are closely connected, so impacts from one area can spread to another.
           </figcaption>
-              "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=1400&q=80",
-            alt: "Polluted river water with mining runoff"
+              "https://earth.org/wp-content/uploads/2020/08/water-pollution-1.jpg",
+            alt: "Heavily polluted river water showing industrial contamination"
           <p><strong>By the numbers:</strong></p>
           <p>Leading global nickel producer</p>
           <p>Many approved mining permits and applications</p>

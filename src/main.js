@@ -96,22 +96,22 @@ const effects = [
     title: "The water you depend on is at risk.",
     body: "For over 15 years, researchers have detected toxic chromium in Palawan's Togpon River at levels exceeding international safety standards. In September 2024, they recorded the highest concentrations ever observed. This is the water farming and fishing families drink from, cook with, and bathe in every day.",
     citation: "Friends of the Earth Japan, 2025",
-    image: "https://cri.org/wp-content/uploads/2025/11/IMG_8135-1024x585.jpg",
-    alt: "A river running through a mining-affected Philippine landscape"
+    image: "https://gw.hacdn.io/media/images/Sequence_08.00_00_02_10.Still001_1.original.width-1600.jpg",
+    alt: "Aerial view of a river turned blood-red from mining runoff"
   },
   {
     title: "The food on your table is becoming harder to produce.",
     body: "In Dinagat Island and Surigao del Sur, fisherfolk describe how runoff from nearby mines has made it almost impossible to keep fishing, the livelihood their families have depended on for generations. When fishing grounds are polluted and farmland is buried in silt, the cost of living quietly rises everywhere else.",
     citation: "Climate Rights International, 2024",
-    image: "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=1400&q=80",
-    alt: "Small fishing boat tied at a Philippine shoreline"
+    image: "https://cri.org/wp-content/uploads/2025/11/IMG_6133-1-1024x576.jpg",
+    alt: "Filipino fisherfolk affected by mining runoff in Dinagat Island"
   },
   {
     title: "When the next typhoon comes, you are more exposed.",
     body: "In Tubajon, Dinagat Island, residents say the destruction of forests and mangroves by mining operations left them defenseless against Super Typhoon Odette in 2021. Every hectare cleared for a mine is one less wall standing between a community and a disaster \u2014 in one of the most typhoon-prone countries on Earth.",
     citation: "Climate Rights International, 2024",
-    image: "https://images.unsplash.com/photo-1527482797697-8795b05a13fe?auto=format&fit=crop&w=1400&q=80",
-    alt: "Storm clouds gathering over a coastal community"
+    image: "https://www.worldvision.org.ph/wp-content/uploads/2023/09/W310-0913-009-700x500-1-jpeg.webp",
+    alt: "Community members in the aftermath of Super Typhoon Odette in the Philippines"
   },
   {
     title: "The forests being cleared will not grow back in your lifetime.",
@@ -124,8 +124,8 @@ const effects = [
     title: "Your right to say no is being ignored.",
     body: "Since the 1990s, Indigenous communities across the Philippines have lost a land area equivalent to 2.2 million football fields to mining tenements \u2014 people whose Free, Prior, and Informed Consent was bypassed, whose voices were drowned out by permits and politics.",
     citation: "Global Witness, 2024",
-    image: "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?auto=format&fit=crop&w=1400&q=80",
-    alt: "Hands holding soil, representing ancestral land and stewardship"
+    image: "https://gw.hacdn.io/media/images/Image1_smaller.original.width-1600.jpg",
+    alt: "Indigenous land defenders marching with torches, calling for justice against mining"
   }
 ];
 

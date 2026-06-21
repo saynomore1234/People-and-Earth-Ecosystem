@@ -270,6 +270,7 @@ app.innerHTML = `
         <a href="#effects">Effects</a>
         <a href="#lopez">Gina Lopez</a>
         <a href="#asks">Act</a>
+        <a href="/solutions.html">Solutions</a>
         <a href="#references">Sources</a>
       </div>
     </nav>
@@ -287,6 +288,7 @@ app.innerHTML = `
       <div class="hero-actions">
         <a class="cta" href="#definition">Start the story</a>
         <a class="ghost" href="#asks">What we're asking for</a>
+        <a class="ghost" href="/solutions.html">See the solutions</a>
       </div>
       <div class="anchor-pills" aria-label="Jump to sections">
         <a href="#definition">Definition</a>
@@ -295,6 +297,7 @@ app.innerHTML = `
         <a href="#effects">Effects</a>
         <a href="#lopez">Gina Lopez</a>
         <a href="#asks">Act</a>
+        <a href="/solutions.html">Solutions</a>
       </div>
     </div>
     <div class="hero-scroll" aria-hidden="true">

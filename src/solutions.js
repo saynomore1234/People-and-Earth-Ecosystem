@@ -1,8 +1,12 @@
 import "./solutions.css";
 import Chart from "chart.js/auto";
 
-const HERO_IMAGE =
-  "https://nrcp.dost.gov.ph/wp-content/uploads/2024/02/IMG_20240215_095512-scaled.jpg";
+import gmapHero from "./assets/solutions/gmap-hero.jpg";
+import gmapMarinduque from "./assets/solutions/gmap-marinduque.jpg";
+import tsmPalawan from "./assets/solutions/tsm-palawan.jpg";
+import sdmpCommunity from "./assets/solutions/sdmp-community.jpg";
+
+const HERO_IMAGE = gmapHero;
 
 const solutionCards = [
   {
@@ -180,7 +184,7 @@ app.innerHTML = `
       <div class="solution-feature" data-reveal>
         <figure>
           <img
-            src="https://nrcp.dost.gov.ph/wp-content/uploads/2025/05/IMG_20250520_101456-scaled.jpg"
+            src="${gmapMarinduque}"
             alt="Native trees growing on a formerly barren mined-out area in Marinduque"
             loading="lazy"
           />
@@ -314,7 +318,7 @@ app.innerHTML = `
       <div class="solution-feature reverse" data-reveal>
         <figure>
           <img
-            src="https://www.rainforest-rescue.org/photos/article/scope/hero/dji-0045.jpg"
+            src="${tsmPalawan}"
             alt="Aerial view of reforested watershed area in Palawan linked to sustainable mining rehabilitation"
             loading="lazy"
           />
@@ -377,7 +381,7 @@ app.innerHTML = `
       <div class="solution-feature" data-reveal>
         <figure>
           <img
-            src="https://cri.org/wp-content/uploads/2025/11/IMG_6133-1-1024x576.jpg"
+            src="${sdmpCommunity}"
             alt="Filipino community members whose livelihoods are tied to land and water near mining areas"
             loading="lazy"
           />
